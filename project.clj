@@ -1,6 +1,6 @@
 (defproject rm-hull/jasentaa "0.2.5"
   :description "A parser-combinator library for Clojure and ClojureScript"
-  :url "https://github.com/rm-hull/jacentaa"
+  :url "https://github.com/rm-hull/jasentaa"
   :license {
     :name "The MIT License (MIT)"
     :url "http://opensource.org/licenses/MIT"}
